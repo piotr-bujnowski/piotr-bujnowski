@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Piotr-Bujnowski
+- 👋 Hi, I’m @Piotr-Bujnowski, welcome to my repo :blush:
 - 🌱 I’m currently learning ```Python```
 - 📫 How to reach me -> ```piotrb@vp.pl``` or [LinkedIn](https://www.linkedin.com/in/piotr-bujnowski-231489202/)
