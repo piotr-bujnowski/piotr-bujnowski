@@ -1,5 +1,5 @@
 ### Hi 👋, I’m @Piotr-Bujnowski, welcome to my repo :blush:
-- 🌱 I’m currently learning ```SpringBoot``` ```ReactJS```
+- 🌱 I’m currently learning ```SpringBoot``` ```NextJs```
 - 📫 How to reach me -> ```piotrb@vp.pl```  
 
 ### Tech Stack
